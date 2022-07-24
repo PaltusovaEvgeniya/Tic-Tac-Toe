@@ -89,3 +89,5 @@ btnRestart.addEventListener("click", function () {
   });
 
 });
+
+//комментарий для новой ветки
